@@ -1,0 +1,184 @@
+.nav{
+    /* background-color: rgb(158, 97, 22); */
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 80%;
+    margin-left: 20%;
+    height: 58px;
+    text-align: center;
+    align-content: center;
+    top: 43px;
+}
+
+
+
+.Logo{
+    display: flex;
+    margin-bottom: 10px;
+   }
+
+.pgIcon{
+    margin-top: auto;
+}
+.pgName{
+    margin-top: auto;
+}
+
+.page-links{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 48px; 
+    position: absolute;
+    left: 15%;
+    right: 17.58%;
+    top: 31.25%;
+   
+}
+
+.links{
+    margin-left: 50px;
+    font-size: 20px;
+    color: #434343;
+    text-decoration: none;
+    
+}
+
+.buuton{
+    background-color: purple;
+    text-decoration: none;
+    margin-top: -12px;
+    color: white;
+    padding: 15px 20px; 
+    border-radius: 10px;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+
+@media (max-width: 480px) {
+    .nav {
+      /* background-color: red; */
+      width: 200px;
+      height: 30px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      text-align: center;
+      /* margin-left: 20px; */
+    }
+  
+    .pgIcon {
+      /* margin-left: 50%; */
+      margin-top: 10px;
+      height: 36.37px;
+      width: 160px;
+    }
+  
+    /* .nlogo {
+      margin-left: 40%;
+      height: 32.19px;
+      width: 188.1px;
+      margin-top: 10px;
+      left: 19.21%;
+    } */
+  
+    .links
+     {
+      font-size: 0.8rem;
+      margin-top: 60px;
+      display: flex;
+      flex-direction: row;
+      color: #434343;
+      text-decoration: none;
+      /* margin-left: 30px; */
+      display: flex;
+      gap: 30px;
+    }
+  
+    .buuton {
+      background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
+      border-radius: 10px;
+      font-size: 16px;
+      color: #ffffff;
+      margin-top: 130px;
+      margin-left: -560px;
+      display: inline-block;
+      padding: 11px 35px;
+      line-height: 20px;
+      font-style: normal;
+      /* padding-bottom: 10px; */
+      padding-top: 10px;
+      border: none;
+      cursor: pointer;
+      position: relative;
+      /* left: 100px; */
+    }
+  }
+  
+  @media only screen and (min-width: 481px) and (max-width: 768px) {
+    .nav {
+      /* background-color: lightblue; */
+      height: 48px;
+      width: 1240px;
+      margin-top: 40px;
+      display: flex;
+      gap: 150px;
+      text-align: center;
+      margin-left: 200px;
+    }
+  
+    a {
+      text-decoration: none;
+    }
+  
+    .pgIcon {
+      margin-top: 10px;
+      height: 36.37px;
+      width: 150px;
+      margin-left: 200px;
+    }
+  
+    /* .nlogo {
+      height: 32.19px;
+      width: 188.1px;
+      margin-top: 10px;
+      left: 19.21%;
+    } */
+  
+    .links
+     {
+    /* background-color: lightblue; */
+      font-size: 20px;
+      margin-top: 50px;
+      margin-left: -60px;
+      display: flex;
+      flex-direction: row;
+      color: #434343;
+      text-decoration: none;
+      margin-left: 10px;
+      display: flex;
+      gap: 30px;
+    }
+  
+    .buuton {
+      background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
+      border-radius: 10px;
+      font-size: 16px;
+      color: #ffffff;
+      margin-top: 100px;
+      margin-left: -400px;
+      /* height: 48px; */
+      /* width: 170px; */
+      display: inline-block;
+      padding: 11px 35px;
+      line-height: 20px;
+      font-style: normal;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      border: none;
+      cursor: pointer;
+    }
+  }

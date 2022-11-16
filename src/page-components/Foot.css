@@ -1,0 +1,98 @@
+.foot {
+    background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
+    /* width: 1640px; */
+    height: 70px;
+    display: flex;
+    align-items: center;
+    gap: 300px;
+  }
+  
+  .logo-container1,
+  .logo-container2,
+  .logo-container3 {
+    margin-left: 150px;
+  }
+  
+  /* Media Queries */
+  @media (max-width: 400px) {
+    .foot {
+      width: fit-content;
+      /* margin-top: 300px; */
+      margin-left: 30px;
+      background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
+      /* width: 1640px; */
+      height: 70px;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      /* display: none; */
+    }
+  
+    .logo-container1,
+    .logo-container2,
+    .logo-container3,
+    img {
+      margin-left: 20px;
+    }
+  
+    .imgg {
+      height: 15px;
+    }
+  }
+  
+  @media only screen and (min-width: 320px) and (max-width: 480px) {
+    .foot {
+      background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
+      width: end;
+      height: 70px;
+      display: flex;
+      align-items: center;
+      gap: 300px;
+    }
+  }
+  
+  @media only screen and (min-width: 481px) and (max-width: 768px) {
+    .foot {
+      background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
+      width: 780px;
+      height: 70px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+  
+    .imgg {
+      height: 20px;
+    }
+  }
+  
+  @media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .foot {
+      background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
+      width: 1590px;
+      height: 70px;
+      display: flex;
+      align-items: center;
+      gap: 300px;
+    }
+  
+    .imgg {
+      height: 20px;
+    }
+  }
+  
+  @media only screen and (min-width: 1201px) {
+    .foot {
+      background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
+      width: fill;
+      height: 70px;
+      display: flex;
+      align-items: center;
+      gap: 300px;
+    }
+  
+    .imgg {
+      height: 20px;
+    }
+  }
+  

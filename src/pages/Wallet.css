@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Red+Rose:wght@300;400&family=Sora:wght@100;200;300&display=swap');
+
+
+
+
+
+
+.linki-box{
+    display: flex;
+    flex-direction: column;
+    gap: 20%;
+}
+
+.wrords{
+    /* border: 1px solid black; */
+    width: 230px;
+    height: 20px;
+    margin-left: 20px;
+    font-family: 'Red Rose';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #333333;
+}
+
+.linkks{
+    display: flex;
+    flex-direction: column;
+    gap: 20%;
+    background: #FFFFFF;
+    border-radius: 16px;
+    text-decoration: none;
+}
+
+
+
+.tp-link{
+    /* border: 1px solid; */
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 17px 20px;
+    gap: 135px;
+    width: 430px;
+    height: 68px;
+    background: #F8F9FA;
+    border: 1px solid #CFD8DC;
+    border-radius: 12px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.bt-link{
+    border: 1px solid;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 20px;
+    gap: 5px;
+    width: 430px;
+    height: 64px;
+    border: 1px solid #CFD8DC;
+    border-radius: 12px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+.loink1{
+    margin-left: -30%;
+    width: 10px;
+    height: 23px;
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+    flex: none;
+    order: 1;
+    text-decoration: none;
+}
+
+.loink2{
+    margin-left: 5%;
+    width: 20px;
+    height: 23px;
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+    flex: none;
+    order: 1;
+    text-decoration: none;
+}
+
+.arrow1{
+    position: absolute;
+    margin-left: 55%;
+    left: 29.17%;
+    right: -4.17%;
+    top: 50%;
+    font-size: 18pt;
+    font-weight: 300;
+    color: #959DA6;
+    text-decoration: none;
+    /* bottom: -30.25%; */
+}
+
+.arrow2{
+    position: absolute;
+    margin-left: 55%;
+    font-size: 18pt;
+    left: 29.17%;
+    right: -4.17%;
+    top: 78%;
+    font-weight: 300;
+    color: #959DA6;
+    text-decoration: none;
+}
