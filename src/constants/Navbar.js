@@ -18,7 +18,7 @@ function Navbar() {
         <img src={meatbun} alt="..." className="pgIcon" />
       </div>
       <div className="page-links">
-        <Link to="/" className="links">
+        <Link to="/metabnb" className="links">
           Home
         </Link>
         <Link to="/pts" className="links">

@@ -11,9 +11,9 @@ class App extends Component {
   render() {
     return (
       <Router>
-        <div className="App col-lg-12">
+        <div className="App">
           <Routes>
-            <Route path="/" element={<Home />} render={<Home />} />
+            <Route path="/metabnb" element={<Home />} render={<Home />} />
             <Route path="/pts" element={<Pts />} render={<Pts />} />
             <Route path="/wallet" element={<Wallet />} render={<Wallet />} />
           </Routes>
