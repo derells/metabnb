@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/metabnb/static/css/main.bc8237de.css",
+    "main.js": "/metabnb/static/js/main.76230a97.js",
+    "static/media/guys.png": "/metabnb/static/media/guys.9e2013483f3a0dcd6267.png",
+    "static/media/meta2.png": "/metabnb/static/media/meta2.93f4160423aa26bdab08.png",
+    "static/media/meta7.png": "/metabnb/static/media/meta7.2c3de9b43735ebadf8c6.png",
+    "static/media/meta12.png": "/metabnb/static/media/meta12.d9ccf8a49170a393cdaa.png",
+    "static/media/meta4.png": "/metabnb/static/media/meta4.f9edcba5e80b487cbe23.png",
+    "static/media/meta11.png": "/metabnb/static/media/meta11.54a15bdf413ec6685d8c.png",
+    "static/media/meta13.png": "/metabnb/static/media/meta13.d01783193bebfe259780.png",
+    "static/media/meta16.png": "/metabnb/static/media/meta16.3a19712711414f0bc260.png",
+    "static/media/meta8.png": "/metabnb/static/media/meta8.a7a293644145ff65e557.png",
+    "static/media/meta14.png": "/metabnb/static/media/meta14.abb70c808f48214e040a.png",
+    "static/media/meta15.png": "/metabnb/static/media/meta15.872eacc4cc1e262990a0.png",
+    "static/media/meta6.png": "/metabnb/static/media/meta6.0aa4525b0ce1a53be192.png",
+    "static/media/meta9.png": "/metabnb/static/media/meta9.642583d16241b954e392.png",
+    "static/media/meta1.png": "/metabnb/static/media/meta1.bfe44eb7b9032bab062d.png",
+    "static/media/meta3.png": "/metabnb/static/media/meta3.f763eb0626ef5ed426df.png",
+    "static/media/meta10.png": "/metabnb/static/media/meta10.639480e99f529b559a35.png",
+    "static/media/meta5.png": "/metabnb/static/media/meta5.1e3d604723a0c40b34c7.png",
+    "static/media/nft4.png": "/metabnb/static/media/nft4.4c29cd552378c6c8c3d4.png",
+    "static/media/nft2.png": "/metabnb/static/media/nft2.a7509a020d1a1de1d5eb.png",
+    "static/media/nft1.png": "/metabnb/static/media/nft1.fad3c59070866e79ccef.png",
+    "static/media/nft3.png": "/metabnb/static/media/nft3.53506fd60e9da1af4511.png",
+    "index.html": "/metabnb/index.html",
+    "main.bc8237de.css.map": "/metabnb/static/css/main.bc8237de.css.map",
+    "main.76230a97.js.map": "/metabnb/static/js/main.76230a97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc8237de.css",
+    "static/js/main.76230a97.js"
+  ]
+}
